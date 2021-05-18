@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-		  I was changed on the feature brach</br>
+		  I was changed on the feature brach<br/>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
